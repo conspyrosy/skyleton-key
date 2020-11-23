@@ -1,0 +1,1 @@
+Skyleton key is a decentralised password manager which stores your passwords encrypted with AES on the cloud. This project is unfinished.
